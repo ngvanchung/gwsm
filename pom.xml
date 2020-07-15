@@ -10,6 +10,12 @@
 	<name>Getting Started with Maven</name>
 	<url>http://apress.com</url>
 
+	<scm>
+		<connection>scm:git:https://github.com/ngvanchung/gwsm.git</connection>
+		<developerConnection>scm:git:https://github.com/ngvanchung/gwsm.git</developerConnection>
+		<url>https://github.com/ngvanchung/gwsm</url>
+	</scm>
+	
 	<properties>
 		<junit.version>4.11</junit.version>
 	</properties>
